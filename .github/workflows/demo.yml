@@ -1,8 +1,6 @@
 name: Eventd Demo 1
 on:
   pull_request:
-    types:
-      - opened
   workflow_dispatch:
 jobs:
   deploy:
