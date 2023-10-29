@@ -1,0 +1,46 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1698594206519,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should render a button",
+          "status": "passed",
+          "title": "should render a button",
+          "duration": 25,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should show the help area after clicking the button",
+          "status": "passed",
+          "title": "should show the help area after clicking the button",
+          "duration": 24,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1698594207579,
+      "endTime": 1698594207628,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/JRBN86/r_d/courses/github/git-second-actions/src/components/MainContent.test.jsx"
+    }
+  ]
+}
